@@ -1,0 +1,79 @@
+body {
+	background-color: #E3ECF4;
+	margin: 0;
+}
+.navigation-1 {
+	text-align: center;
+}
+
+.navigation-2 {
+	padding-left: 47%;
+}
+}
+.text-align-of-header {
+	text-align: center;
+}
+
+.common-sittings {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: white;
+	padding-top: 1%;
+}
+.border-sittings {
+	border: 2px solid black;
+	width: 92%;
+	margin-left: 4%;
+	margin-top: 20px;
+
+}
+
+.input-sittings {
+	margin-left: 94%;
+	margin-top: 20px;
+}
+
+.menu {
+	border: 1px solid silver;
+	border-radius: 10px;
+	background-color: silver;
+	width: 96%;
+	margin-left: 2%;
+
+}
+
+.some-news {
+	border: 1px solid silver;
+	border-radius: 10px;
+	background-color: silver;
+	width: 96%;
+	margin-left: 2%;
+}
+
+hr {
+	height: 3px;
+	background-color: black;
+	width: 98%;
+}
+
+.one-of-six-news {
+	width: 100px;
+	height: 40px;
+	background-color: #18fff0;
+	border: 1px solid black;
+}
+
+.section-bottom-sittings {
+	margin: 0 2% 0 2%;
+}
+
+.one-of-six-news {
+	margin-top: 20px;
+}
+
+footer {
+	width: 100%;
+	background-color: silver;
+	height: 150px;
+}
